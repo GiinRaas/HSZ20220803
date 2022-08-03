@@ -1,5 +1,5 @@
 package sajatInterface;
-
+//this is a comment
 public class Kapcsolat implements CSVMentheto{
 
 	private String nev;
